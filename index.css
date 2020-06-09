@@ -1,0 +1,50 @@
+
+.height{
+    min-height: 100vh;
+    
+}
+.title-underline{
+    width:600px;
+    height:25px;
+    margin:0 auto;
+    background: #283618!important
+}
+.color{
+    background: #F2F3AE!important;
+}
+.colornext{
+    background: #130303;
+}
+.bgcolor{
+    background: #691E06;
+}
+.nextcolor{
+    background: black;
+}
+.mine{
+    background: #4F000B;
+}
+.flame{
+    background: #E06D06
+}
+.about-picture{
+   background: url(./img/pic7.png);
+   background-size: cover;
+   background-position:center;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+
+}
+.height-80{
+    min-height: 80vh;
+}
+#review{
+    background: black;
+}
+.image{
+    background:url(./img/item5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
